@@ -1,1 +1,1 @@
-# ChaT
+# Simple ChatServer
